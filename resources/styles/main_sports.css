@@ -1,0 +1,42 @@
+.container {
+  width: 100%;
+}
+
+.global-header {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.6rem 0.85rem;
+}
+
+.global-header {
+  width: 1.6rem;
+  height: 1.6rem;
+}
+
+.header > h1 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 0.9rem;
+}
+
+.header ul.util-menu {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  gap: 0.2rem;
+}
+
+.header .util-menu > li {
+
+}
+
+.header .util-menu > li > img {
+  width: 1.6rem;
+  height: 1.6rem;
+}

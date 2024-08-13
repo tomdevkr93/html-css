@@ -1,0 +1,69 @@
+/* Root */
+:root {
+  /* color */
+  --white: #fff;
+  --black1: #000;
+  --black2: #252830;
+  --black3: #474e58;
+  --black4: #333;
+  --gray1: #667284;
+  --gray2: #8794a7;
+  --gray3: #a2adbd;
+  --gray4: #b9c3d1;
+  --gray5: #d6dce3;
+  --gray6: #e9edf1;
+  --gray7: #f1f5f9;
+  --gray8: #f6f8fb;
+  --gray9: #cbcfd6;
+  --gray10: #f3f5f6;
+  --gray11: #737e8f;
+  --gray12: #d3d6dc;
+  --gray13: #999;
+  --blue1: #34429c;
+  --blue2: #4b79ee;
+  --blue3: #7bbaf5;
+  --blue4: #e9f4ff;
+  --blue5: #106698;
+  --blue6: #2282b9;
+  --blue7: #44a9e2;
+  --blue8: #ebf8ff;
+  --blue9: #5e72eb;
+  --blue10: #778afd;
+  --blue11: #9eacff;
+  --blue12: #e9ecff;
+  --blue13: #4795CD;
+  --blue14: #5779BC;
+  --blue15: #f1f3fe;
+  --green1: #1e9ab5;
+  --green2: #1eb590;
+  --green3: #67d9a9;
+  --green4: #ebfff6;
+  --green5: #6AC65B;
+  --green6: #59a794;
+  --green7: #30aeca;
+  --purple1: #8146a5;
+  --purple2: #a265c8;
+  --purple3: #c485eb;
+  --purple4: #f8f1fc;
+  --purple5: #5E50B4;
+  --purple6: #f9f4fc;
+  --red1: #ef404a;
+  --org1: #ff6644;
+  --org2: #f98070;
+  --org3: #ff6c6c;
+  --pink1: #e86ac4;
+  --primary1: #09003e;
+  --primary2: #2282b9;
+  --primary3: #ff9c00;
+
+  /* etc */
+  --boxshadow1: 2px 3px 6px rgba(0,0,0,.15);
+  --boxshadow2: 0 3px 6px rgba(0,0,0,.1);
+  --boxshadow3: 0px 15px 18px -11px rgba(0,0,0,0.16);
+  --dropshadow1: drop-shadow(0 6px 8px rgba(0,0,0,.3));
+  --textshadow1: 0 1px 8px rgba(0,0,0,.3);
+}
+
+html {
+  font-size: 20px;
+}
